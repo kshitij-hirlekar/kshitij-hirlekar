@@ -2,6 +2,12 @@
 <h3 align="center">A Passionate Java Full Stack Developer from India</h3>
 
 <p align="center">
+  <a href="https://github.com/Sumitdhamane">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Dev;Open+Source+Contributor;Lifelong+Learner"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kshitij-hirlekar&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij-hirlekar" />
 </p>
 

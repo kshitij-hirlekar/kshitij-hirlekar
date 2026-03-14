@@ -74,6 +74,7 @@
 ---
 
 ### 🚀 Projects Showcase
+- 💼 [WorkLink](#) — Spring Boot + React + MongoDB
 - 💼 [Counsellor Portal](#) — Spring Boot + React + MongoDB  
 - 🍔 [Burger Buying App](#) — React + Express  
 - 📊 [Smart Financial Dashboard](#) — Data visualization project  
